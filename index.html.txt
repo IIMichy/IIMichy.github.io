@@ -1,9 +1,0 @@
-<head>
-    <center>
-    <title> MichyIsCool </title>
-    <body bgcolor="pink"> </body>
-    <video width="1600" height="900" controls autoplay>
-    <source src="CUM.mp4" 
-    </video>
-    </center>
-</head>    
