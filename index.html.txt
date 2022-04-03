@@ -1,16 +1,9 @@
-<table width=”100%” border=”0″ cellpadding=”0″ cellspacing=”0″>
-<tr>
-<td width=”100%” align=”center” valign=”top”>
-<div align=”center”>
-<a href=”detect.htm” target=”_self”;>
-<img src=”immagini/flash.gif” width=”150″ height=”75″ border=”0″></a>
-<br>
-<a href=”http://flash5.html.it/” target=”_self”;>
-<img src=”immagini/html.gif” width=”150″ height=”75″ border=”0″></a>
-<br>
-<a href=”http://www.macromedia.com/shockwave/download/” target=”_blank”;>
-<img src=”immagini/plugin.gif” width=”150″ height=”75″ border=”0″></a>
-</div>
-</td>
-</tr>
-</table>
+<head>
+    <center>
+    <title> MichyIsCool </title>
+    <body bgcolor="pink"> </body>
+    <video width="1600" height="900" controls autoplay>
+    <source src="CUM.mp4" 
+    </video>
+    </center>
+</head>    
